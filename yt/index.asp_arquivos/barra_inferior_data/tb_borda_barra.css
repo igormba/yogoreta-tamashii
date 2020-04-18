@@ -1,0 +1,10 @@
+.tb_borda_barra 	{
+					
+					border-top-width: 1px;
+					border-bottom-width: 1px;
+					border-top-style: solid;
+					border-bottom-style: solid;
+					border-top-color: #CCCCCC;
+					border-bottom-color: #CCCCCC;
+					
+					}

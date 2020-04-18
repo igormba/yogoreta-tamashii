@@ -1,0 +1,30 @@
+/* Borda da tabela de itens do Menu */
+
+.Borda 			{
+				
+				border-top: 1px solid #8FA0AB;
+				border-right: 1px solid #8FA0AB;
+				border-left: 1px solid #8FA0AB;		
+				
+				}
+
+/* Borda da tabela de fundo */
+				
+.Borda_PL       {
+
+				border-top: 1px solid #8FA0AB;
+				border-right: 1px solid #8FA0AB;
+				border-bottom: 1px solid #8FA0AB;
+				border-left: 1px solid #8FA0AB;	
+				
+				}
+
+/* Borda para os itens do Menu */
+
+.Borda_Inferior	{
+				
+				border-bottom-width: 1px;
+				border-bottom-style: solid;
+				border-bottom-color: #8FA0AB;
+				
+				}

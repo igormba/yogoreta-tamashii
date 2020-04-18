@@ -1,0 +1,12 @@
+/* Estilo da Borda Superior e Inferior da céluas dos botões - Topo */
+
+.tb_borda_botoes 	{
+					
+					border-top-width: 1px;
+					border-bottom-width: 1px;
+					border-top-style: solid;
+					border-bottom-style: solid;
+					border-top-color: #8F9CAA;
+					border-bottom-color: #8F9CAA;
+
+					}

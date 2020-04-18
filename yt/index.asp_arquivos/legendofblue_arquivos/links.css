@@ -1,0 +1,191 @@
+/* Link padrão do site */
+
+a.padrao:link 		{
+					
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 10px;
+					text-decoration: none;
+					color: #BCCCD4;
+					
+					}
+					
+a.padrao:visited 	{
+					
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 10px;
+					text-decoration: none;
+					color: #BCCCD4;
+					
+					}
+					
+a.padrao:hover 		{
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 10px;					
+					text-decoration: underline;
+					color: #BCCCD4;
+					
+					}
+
+a.padrao:active 	{
+					
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 10px;
+					text-decoration: none;
+					color: #BCCCD4;
+					
+					}
+
+/* Link para as notícias */
+
+a.noticias:link 	{
+					
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 10px;
+					text-decoration: none;
+					color: #99A5AE;
+					
+					}
+					
+a.noticias:visited 	{
+					
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 10px;
+					text-decoration: none;
+					color: #99A5AE;
+					
+					}
+					
+a.noticias:hover 	{
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 10px;					
+					text-decoration: underline;
+					color: #99A5AE;
+					
+					}
+
+a.noticias:active 	{
+					
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 10px;
+					text-decoration: none;
+					color: #99A5AE;
+					
+					}
+
+/* Link para o PromoCine */
+
+a.promocine:link 	{
+					
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 9px;
+					text-decoration: none;
+					color: #99A5AE;
+					
+					}
+					
+a.promocine:visited	{
+					
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 9px;
+					text-decoration: none;
+					color: #99A5AE;
+					
+					}
+					
+a.promocine:hover 	{
+
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 9px;					
+					text-decoration: underline;
+					color: #99A5AE;
+					
+					}
+
+a.promocine:active 	{
+					
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 9px;
+					text-decoration: none;
+					color: #99A5AE;
+					
+					}
+
+/* Link para a Paginação */
+
+a.paginacao:link 	{
+					
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-weight: bold;
+					font-size: 10px;
+					text-decoration: none;
+					color: #708AA5;
+					
+					}
+					
+a.paginacao:visited {
+					
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-weight: bold;
+					font-size: 10px;
+					text-decoration: none;
+					color: #708AA5;
+					
+					}
+					
+a.paginacao:hover 	{
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-weight: bold;
+					font-size: 10px;					
+					text-decoration: underline;
+					color: #708AA5;
+					
+					}
+
+a.paginacao:active 	{
+					
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-weight: bold;
+					font-size: 10px;
+					text-decoration: none;
+					color: #708AA5;
+					
+					}
+					
+
+/* Link para o Fidelidade Premiada */
+
+a.fidelidade:link 	{
+					
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 9px;
+					text-decoration: none;
+					color: #99A5AE;
+					
+					}
+					
+a.fidelidade:visited{
+					
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 9px;
+					text-decoration: none;
+					color: #99A5AE;
+					
+					}
+					
+a.fidelidade:hover 	{
+
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 9px;					
+					text-decoration: underline;
+					color: #99A5AE;
+					
+					}
+
+a.fidelidade:active	{
+					
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 9px;
+					text-decoration: none;
+					color: #99A5AE;
+					
+					}

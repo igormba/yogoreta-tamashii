@@ -1,0 +1,11 @@
+.form_login 	{
+				
+				font-family: Verdana, Arial, Helvetica, sans-serif;
+				font-size: 10px;
+				color: #00354D;
+				background-image: url(../central_assinante/imagens/pl_form_login.jpg);
+				background-repeat: repeat-x;
+				height: 20px;
+				border: 1px solid #00334B;
+				
+				}

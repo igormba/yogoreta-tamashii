@@ -1,0 +1,19 @@
+/* Propriedades da página */
+
+body,td,th 	{
+			
+			font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 10px;
+			color: #BCCCD4;
+			
+			}
+
+body 		{
+			
+			margin-left: 0px;
+			margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 0px;
+			background-color: #123C53;
+			
+			}

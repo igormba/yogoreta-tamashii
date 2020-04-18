@@ -1,0 +1,9 @@
+/* Borda inferior da célula de Data - Topo */
+
+.tb_borda_if_data 	{
+					
+					border-bottom-width: 1px;
+					border-bottom-style: solid;
+					border-bottom-color: #647687;
+
+					}

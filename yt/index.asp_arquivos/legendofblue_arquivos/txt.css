@@ -1,0 +1,76 @@
+/* Estilo para os textos das páginas */
+
+.txt_cinza 			{
+			
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 10px;
+					color: #999999;
+			
+					}
+
+.txt_cinza_claro 	{
+			
+					font-family: Verdana, Arial, Helvetica, sans-serif;
+					font-size: 10px;
+					color: #CCCCCC;
+			
+					}
+					
+.Titulo_Noticia 	{
+					
+					color: #BDBEBB;
+					font-weight: bold;
+					font-family: Arial, Helvetica, sans-serif;
+					font-size: 11px;
+					
+					}
+					
+.Titulo_PG_Noticia 	{
+					
+					color: #708AA5;
+					font-weight: bold;
+					font-family: Arial, Helvetica, sans-serif;
+					font-size: 14px;
+					
+					}
+					
+.TXT_Promocine 		{
+					
+					font-size: 9px
+					
+					}
+
+.TXT_Azul		 	{
+					
+					color: #708AA5;
+					font-weight: bold;
+					font-family: Arial, Helvetica, sans-serif;
+					font-size: 11px;
+					
+					}
+
+.TXT_Vermelho	 	{
+					
+					color: #CC0000;
+					font-weight: bold;
+					font-family: Verdana;
+					font-size: 11px;
+					
+					}
+					
+.TXT_Negrito	 	{
+					
+					font-weight: bold;
+					font-family: Verdana;
+					font-size: 10px;
+					
+					}
+					
+.TXT_Resposta	 	{
+					
+					font-weight: bold;
+					font-family: Arial;
+					font-size: 11px;
+					color: #CDD7E0;
+					
+					}
